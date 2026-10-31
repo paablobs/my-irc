@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- Node.js >= 20.0.0
+- Node.js 20.19+ or 22.12+ (Node.js 24 recommended)
 - npm
 
 ## Setup
